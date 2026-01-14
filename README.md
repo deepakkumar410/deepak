@@ -1,5 +1,6 @@
 <!--Banner-->
-![Deepak Kumar Banner Image](./banner.png)
+![Deepak Kumar Banner Image](./github-header-banner.png
+)
 
 <!--Night Owl image-->
 <div>
