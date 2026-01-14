@@ -1,3 +1,6 @@
+
+
+
 <!--Banner-->
 ![Deepak Kumar Banner Image](./github-header-banner.png
 )
@@ -63,15 +66,15 @@ React.js, Node.js, Express, MongoDB, and modern frontend practices like Redux To
 ---
 
 <!--Trophies-->
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<!-- <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=deepakkumar410&row=2&column=6&theme=monokai&no-bg=true&margin-w=20&margin-h=20" />
-</p>
+</p> -->
 
 ---
 
 <!--Github Stats-->
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<!-- <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <table width="100%">
   <tr>
@@ -84,15 +87,15 @@ React.js, Node.js, Express, MongoDB, and modern frontend practices like Redux To
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakkumar410&theme=nightowl" />
     </td>
   </tr>
-</table>
+</table> -->
 
 ---
 
 <!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<!-- <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakkumar410&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95" />
-</p>
+</p> -->
 
 ---
 
@@ -100,21 +103,24 @@ React.js, Node.js, Express, MongoDB, and modern frontend practices like Redux To
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
 <div align="center">
 
-<a href="mailto:dpk.developer04@gmail.com">
-<img src="./gmail.png" width="50" />
-</a>
+<p align="center">
+  <a href="mailto:dpk.developer04@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="45" />
+  </a>
 
-<a href="https://www.instagram.com/kiran_a_n">
-<img src="./instagram.png" width="50" />
-</a>
+  <a href="https://www.instagram.com/kiran_a_n">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="45" />
+  </a>
 
-<a href="https://github.com/deepakkumar410">
-<img src="./github.png" width="50" />
-</a>
+  <a href="https://github.com/deepakkumar410">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="45" />
+  </a>
 
-<a href="https://www.linkedin.com/in/deepakkumar410-799a22328/">
-<img src="./linkedin.png" width="50" />
-</a>
+  <a href="https://www.linkedin.com/in/deepakkumar410-799a22328/">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="45" />
+  </a>
+</p>
+
 
 </div>
 
