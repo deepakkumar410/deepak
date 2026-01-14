@@ -6,15 +6,15 @@
 )
 
 <!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
+
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴅᴇᴇᴘᴀᴋ ᴋᴜᴍᴀʀ !
 *MERN Stack Developer*
 <br />
-
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 <!--Start Intro-->
 <p align="left">
 I am a MERN Stack Developer with hands-on experience building responsive and scalable web applications using
