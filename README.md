@@ -11,7 +11,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴅᴇᴇᴘᴀᴋ ᴋᴜᴍᴀʀ!
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴅᴇᴇᴘᴀᴋ ᴋᴜᴍᴀʀ !
 *MERN Stack Developer*
 <br />
 
@@ -43,7 +43,7 @@ React.js, Node.js, Express, MongoDB, and modern frontend practices like Redux To
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="Skills Animation" src="./Skills_Animation_White.gif">
+  <img align="left" alt="Skills Animation" src="./Skills_Animation_Dark.gif">
 </picture>
 <br />
 
@@ -97,11 +97,11 @@ React.js, Node.js, Express, MongoDB, and modern frontend practices like Redux To
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakkumar410&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95" />
 </p> -->
 
----
+
 
 <!--Contact Section-->
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
-<div align="center">
+<div align="center" gap="10px">
 
 <p align="center">
   <a href="mailto:dpk.developer04@gmail.com">
@@ -120,8 +120,6 @@ React.js, Node.js, Express, MongoDB, and modern frontend practices like Redux To
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="45" />
   </a>
 </p>
-
-
 </div>
 
 <br/>
