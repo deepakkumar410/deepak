@@ -1,4 +1,5 @@
-![MasterHead](https://github.com/topics/anime-readme-profile?o=desc&s=forks)
+![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Deepak%20Kumar&fontSize=40)
+
 
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
