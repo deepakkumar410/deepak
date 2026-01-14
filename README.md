@@ -1,42 +1,125 @@
-![MasterHead](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Deepak%20Kumar&fontSize=40)
+<!--Banner-->
+![Deepak Kumar Banner Image](./banner.png)
 
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
-<h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
-<h3 align="center">A passionate MERN Stack Developer from India</h3>
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴅᴇᴇᴘᴀᴋ ᴋᴜᴍᴀʀ!
+*MERN Stack Developer*
+<br />
 
-<img
-  align="right"
-  alt="Coding"
-  width="400"
-  src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"
-/>
-
+<!--Start Intro-->
 <p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=deepakkumar410&label=Profile%20views&color=0e75b6&style=flat"
-    alt="profile views"
-  />
+I am a MERN Stack Developer with hands-on experience building responsive and scalable web applications using
+React.js, Node.js, Express, MongoDB, and modern frontend practices like Redux Toolkit and RTK Query.
 </p>
 
-- 🔭 I’m currently working on **MERN Stack Projects**
-- 🌱 I’m currently learning **React Native**
-- 💬 Ask me about **React, MERN**
-- 📫 How to reach me **dpk.developer04@gmail.com**
-- ⚡ Fun fact **I love building UI animations**
+- ✨ Passionate about clean UI and scalable frontend architecture  
+- 🌱 Currently improving my skills in advanced React patterns & backend integrations  
+- 💻 Experienced in real-time features using Socket.io  
+- 🚀 Focused on performance optimization and reusable component-driven development  
+- ❤️ Love building real-world products and personal projects  
 
-<h3 align="left">Connect with me:</h3>
+- 🌐 Visit my **Portfolio**: https://deepakkumar-portfolio-2n.netlify.app  
+<!--End Intro-->
+
+<!--Profile Count Badge-->
 <p align="left">
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=deepakkumar410&label=Profile%20views&color=770677&style=for-the-badge&logo=star" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
+---
+
+<!--Tech Stack-->
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ Wᴏʀᴋ</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="Skills Animation" src="./Skills_Animation_White.gif">
+</picture>
+<br />
+
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>Advanced React.js & performance optimization</li>
+  <li>Backend scalability with Node.js & Express</li>
+  <li>Real-time systems using Socket.io</li>
+</ul>
+
+<h3 align="left">Highlighted Projects</h3>
+<ul align="left">
+  <li><a href="https://ai-chat-inter-face.vercel.app/">🤖 AI Chat Interface (React + Gemini API)</a></li>
+  <li><a href="https://animate-x-animation.vercel.app/">🎬 Animate-X (GSAP Animation Website)</a></li>
+  <li><a href="https://tms.deepmart.shop/">🎟 Ticket Management System</a></li>
+</ul>
+
+<br /><br /><br /><br />
+
+---
+
+<!--Trophies-->
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=deepakkumar410&row=2&column=6&theme=monokai&no-bg=true&margin-w=20&margin-h=20" />
+</p>
+
+---
+
+<!--Github Stats-->
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center">Gɪᴛʜᴜʙ Sᴛᴀᴛs</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=deepakkumar410&show_icons=true&theme=nightowl" />
+    </td>
+    <td width="50%">
+      <h3 align="center">Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakkumar410&theme=nightowl" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepakkumar410&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95" />
+</p>
+
+---
+
+<!--Contact Section-->
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
+<div align="center">
+
+<a href="mailto:dpk.developer04@gmail.com">
+<img src="./gmail.png" width="50" />
+</a>
+
+<a href="https://www.instagram.com/kiran_a_n">
+<img src="./instagram.png" width="50" />
+</a>
+
+<a href="https://github.com/deepakkumar410">
+<img src="./github.png" width="50" />
+</a>
+
+<a href="https://www.linkedin.com/in/deepakkumar410-799a22328/">
+<img src="./linkedin.png" width="50" />
+</a>
+
+</div>
+
+<br/>
+
+<!--Footer-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
