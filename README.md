@@ -108,7 +108,7 @@ React.js, Node.js, Express, MongoDB, and modern frontend practices like Redux To
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="45" />
   </a>
 
-  <a href="https://www.instagram.com/kiran_a_n">
+  <a href="https://www.instagram.com/deepak_rai_04_">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="45" />
   </a>
 
