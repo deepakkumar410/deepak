@@ -13,7 +13,7 @@
 *MERN Stack Developer*
 <br />
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="40%" src="https://camo.githubusercontent.com/1e32f179f5b75f7999057b2fb3d29ac42df1f728fd9e26f421c07ea689155ec5/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032312f3732302f3932302f6f726967696e616c2f706978656c2d6a6566662d6d6172696f2e6769663f31353732373039343333">
 </div>
 <!--Start Intro-->
 <p align="left">
