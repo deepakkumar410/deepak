@@ -2,7 +2,7 @@
 
 
 <!--Banner-->
-![Deepak Kumar Banner Image](./Dpk Banner.png)
+![Deepak Kumar Banner Image](./Dpk-Banner.png)
 
 <!--Night Owl image-->
 
