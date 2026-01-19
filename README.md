@@ -8,15 +8,18 @@
 
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴅᴇᴇᴘᴀᴋ ᴋᴜᴍᴀʀ !
-*MERN Stack Developer*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Deepak+Kumar+%F0%9F%91%8B;Full+Stack+Developer;" alt="Typing SVG" />
+</p>
+
+
 <br />
 <div>
   <img align="right" width="40%" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 </div>
 <!--Start Intro-->
 <p align="left">
-I am a MERN Stack Developer with hands-on experience building responsive and scalable web applications using
+I am a Full Stack Developer with hands-on experience building responsive and scalable web applications using
 React.js, Node.js, Express, MongoDB, and modern frontend practices like Redux Toolkit and RTK Query.
 </p>
 
