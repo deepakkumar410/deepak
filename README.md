@@ -2,8 +2,7 @@
 
 
 <!--Banner-->
-![Deepak Kumar Banner Image](./github-header-banner.png
-)
+![Deepak Kumar Banner Image](./github-header-banner (1))
 
 <!--Night Owl image-->
 
